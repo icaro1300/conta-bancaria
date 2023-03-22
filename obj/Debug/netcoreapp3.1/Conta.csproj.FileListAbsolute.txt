@@ -1,0 +1,14 @@
+C:\icaro senai\Linguagem Csharp\Conta\obj\Debug\netcoreapp3.1\Conta.csproj.AssemblyReference.cache
+C:\icaro senai\Linguagem Csharp\Conta\obj\Debug\netcoreapp3.1\Conta.GeneratedMSBuildEditorConfig.editorconfig
+C:\icaro senai\Linguagem Csharp\Conta\obj\Debug\netcoreapp3.1\Conta.AssemblyInfoInputs.cache
+C:\icaro senai\Linguagem Csharp\Conta\obj\Debug\netcoreapp3.1\Conta.AssemblyInfo.cs
+C:\icaro senai\Linguagem Csharp\Conta\obj\Debug\netcoreapp3.1\Conta.csproj.CoreCompileInputs.cache
+C:\icaro senai\Linguagem Csharp\Conta\bin\Debug\netcoreapp3.1\Conta.exe
+C:\icaro senai\Linguagem Csharp\Conta\bin\Debug\netcoreapp3.1\Conta.deps.json
+C:\icaro senai\Linguagem Csharp\Conta\bin\Debug\netcoreapp3.1\Conta.runtimeconfig.json
+C:\icaro senai\Linguagem Csharp\Conta\bin\Debug\netcoreapp3.1\Conta.runtimeconfig.dev.json
+C:\icaro senai\Linguagem Csharp\Conta\bin\Debug\netcoreapp3.1\Conta.dll
+C:\icaro senai\Linguagem Csharp\Conta\bin\Debug\netcoreapp3.1\Conta.pdb
+C:\icaro senai\Linguagem Csharp\Conta\obj\Debug\netcoreapp3.1\Conta.dll
+C:\icaro senai\Linguagem Csharp\Conta\obj\Debug\netcoreapp3.1\Conta.pdb
+C:\icaro senai\Linguagem Csharp\Conta\obj\Debug\netcoreapp3.1\Conta.genruntimeconfig.cache
